@@ -23,3 +23,17 @@
 }
 .icono2{
   height: 50px;
+}
+.colorlabel{
+  backgroud-color: rgb(196, 196, 196);
+  margin-right: 6px;
+  margin-top: 10px;
+  border: 2px solid rgb(184, 179, 174);
+  border-radius: 5px;
+}
+.lupa{
+  background: none;
+
+  border: none;
+
+}
