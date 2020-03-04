@@ -5,15 +5,30 @@
   background-color: rgb(15, 231, 166);
 
 }
+.altura-barra div{
+height: 80%;
+}
 .logo{
-  height: 80%;
+height: 100%;
+
 }
-.bajar-iconos{
-  padding-top: 100px;
-  padding-right: 20px;
-}
+
+
 .icono{
-  height: 20%;
+  height: 30px;
+  padding-left: 8px;
+}
+
+.horizontal{
+display: inline;
+}
+
+.separacion{
+  padding-top: 80px;
+}
+.linea{
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 50px;
 }
 .color-navbar{
   background-color: rgb(15, 231, 166);
